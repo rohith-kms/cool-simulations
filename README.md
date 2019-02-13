@@ -14,3 +14,5 @@ Simulation to obtain equilibrium structure of a hypothetical 2D binary alloy usi
 #### Binary alloy w/ Vacancy - Kinetic Monte Carlo
 
 Kinetic Monte carlo simulation of a vacancy in a 2D Binary alloy, using Kawasaki Dynamics.
+
+![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)
