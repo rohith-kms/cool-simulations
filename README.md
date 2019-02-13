@@ -3,7 +3,7 @@ Hey there! This is a collection of cool Molecular Dynamics (MD) and Monte Carlo 
 
 # Contents:
 
-### 2-body Gravity - Molecular Dynamics
+#### 2-body Gravity - Molecular Dynamics
 
 Simulation of trajectories taken by two particles under the action of Gravity using Molecular Dynamics.
 
