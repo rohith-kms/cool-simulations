@@ -15,4 +15,4 @@ Simulation to obtain equilibrium structure of a hypothetical 2D binary alloy usi
 
 Kinetic Monte carlo simulation of a vacancy in a 2D Binary alloy, using Kawasaki Dynamics.
 
-![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)
+![equation](https://latex.codecogs.com/gif.latex?%5Ckappa%20%3D%20%5Cfrac%7B%5Cpsi%7D%7B%5Cphi%7D)
